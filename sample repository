@@ -1,0 +1,6 @@
+# make a new folder
+mkdir my-git-lab
+cd my-git-lab
+
+# initialize git
+git init
